@@ -1,2 +1,2 @@
-# Machine-Learning
-My first machine learning work
+# Data_Science_Projects
+My first data science work
